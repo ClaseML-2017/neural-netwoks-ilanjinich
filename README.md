@@ -4,5 +4,7 @@ neural-netwoks-ilanjinich created by GitHub Classroom
 Ilan Jinich 
 143935
 
-en XOR esta la primera parte
-en XOR2 esta el circulo
+en XOR esta XOR
+en Circulo esta el circulo
+
+Si se escoger nombre
