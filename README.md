@@ -7,4 +7,4 @@ Ilan Jinich
 en XOR esta XOR
 en Circulo esta el circulo
 
-Si se escoger nombre
+Si se escoger nombres
